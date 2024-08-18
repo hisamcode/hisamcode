@@ -12,6 +12,8 @@
 - 📫 [Email](mailto:hisamcode@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/hisamcode)
 
+I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
+
 <!--
 **hisamcode/hisamcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
