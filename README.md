@@ -1,7 +1,7 @@
 👋 Hi, I'm Hisam Maulana! I’m software engineer focused on harnessing technology to make significant impacts in the tech industry and beyond.
 
 ## Technical Skills 🛠️
-- **Languages:** Go, JavaScript, Python, PHP
+- **Languages:** Go, JavaScript, PHP
 - **Frameworks & Libraries:** React, Next.js, Node.js, Vuejs
 - **Tools & Platforms:** GitHub, Docker
 
